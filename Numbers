@@ -1,10 +1,10 @@
  1:3文字もタイプするとかありえないですよね
- 2: ヽ(´ー｀)ノ      今日おぼえたコマンド
- 3: (*´∀｀*)        git log --graph --pretty=oneline --decorate
- 4: キタ━(゜∀゜)━! git diff --word-diff
- 5:  (；´Д｀)       git rebase --skip
- 6: ヽ(´ー｀)ノ rm -rf /  禁止です
- 7: (/・ω・)/にー
- 8: (/・ω・)/にー
- 9: (/・ω・)/にー
+ 2: ヽ(´ー｀)ノ 今日おぼえたコマンド
+ 3: (*´∀｀*) git log --graph --pretty=oneline --decorate
+ 4: ｷﾀ━(ﾟ∀ﾟ)━! git diff --word-diff
+ 5:  (；´Д｀) git rebase --skip
+ 6: ヽ(´ー｀)ノ sudo rm -rf /  すれば幸せになれる！
+ 7: (/・ω・)/にゃー！(」・ω・)」うー！
+ 8: (/・ω・)/にゃー！(」・ω・)」うー！
+ 9: (/・ω・)/にゃー！(」・ω・)」うー！
 10: rebase力がほしい
