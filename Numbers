@@ -1,11 +1,10 @@
- 0:(／・ω・)／git (」・ω・)」pull
- 1:　 　　　*　　　　　　*
- 2:　　＊　　　　　＋　　うそです
- 3:　 　　 n ∧＿∧　n
- 4:　＋　(ﾖ（* ´∀｀）E)
- 5:　 　 　 Y 　　　 Y　　　　＊
- 6:log --stat --pretty=fuller
- 7:myfinder:(ΦωΦ)フフフ……
- 8:octcat love!
- 9:myfinder:(ΦωΦ)フフフ……
-10:(／・ω・)／git (」・ω・)」push
+ 1:A-B-C-D-E
+ 2:に
+ 3:A-B-C-F-G
+ 4:をpull(merge)すると
+ 5:A-B-C-D-F-E-G
+ 6:になるけど
+ 7:pull --rebaseすると
+ 8:A-B-C-D-E-F-G
+ 9:になるのじゃ
+10:because octcat love!
